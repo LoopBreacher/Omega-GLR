@@ -32,4 +32,3 @@ The full theoretical manuscript is available on **Zenodo**:
 ## 🤝 Citation
 If you use this framework or the Bekenstein Trigger logic in your research, please cite:
 *Lindenbeck, M. (2026). The ΩGLR Framework: A Unified Geometric Theory of Cosmic Stability, Grounding Mass Decay, and Dynamical Dark Energy.*
-```
