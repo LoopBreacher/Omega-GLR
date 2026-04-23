@@ -36,7 +36,7 @@ The universe is treated as an **Information-Stability System** where gravity, th
 
 ### Papers
 
-- **[ΩGLR Framework — A Unified Geometric Theory of Cosmic Stability, Grounding Mass Decay, and Dynamical Dark Energy](https://doi.org/10.5281/zenodo.19604982)**
+- **[ΩGLR Framework — A Unified Geometric Theory of Cosmic Stability, Grounding Mass Decay, and Dynamical Dark Energy](https://doi.org/10.5281/zenodo.19712422)**
 - **[The Universal Stability Invariant](https://doi.org/10.5281/zenodo.19656230)**
 - **[ΩGLR + S_Ω = Theory of Everything: The Grand Finale](https://doi.org/10.5281/zenodo.19685753)**
 
